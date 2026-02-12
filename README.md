@@ -3,7 +3,7 @@
 
 ## Descripción del Proyecto
 
-Documentación técnica del primer proyecto de **Prácticas Iniciales "F-" (1S2026)**. Este repositorio detalla el proceso integral de diagnóstico, intervención y optimización de hardware y software, siguiendo estándares de seguridad y buenas prácticas industriales.
+Documentación técnica del primer proyecto de **Prácticas Iniciales "F-" (1S2026)** correspondiente a la carrera de **Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala**. Este repositorio detalla el proceso integral de diagnóstico, intervención y optimización de hardware y software, siguiendo estándares de seguridad y buenas prácticas industriales.
 
 ---
 
