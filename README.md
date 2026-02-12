@@ -61,4 +61,12 @@ El proyecto se dividió en tres fases críticas para asegurar la integridad de l
 
 ## Objetivos y Conclusiones
 
+
 El propósito fundamental fue la implementación de técnicas correctivas y preventivas que garanticen la extensión de la vida útil del hardware. Como resultado, se consolidaron competencias en soporte técnico y documentación profesional, cumpliendo satisfactoriamente con los requerimientos académicos del ciclo.
+
+
+---
+
+**Licencia:** Proyecto con fines exclusivamente académicos para el curso de Prácticas Iniciales "F-" 1S2026.
+
+---
