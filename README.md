@@ -18,9 +18,9 @@ Se ha generado un video demostrativo que documenta el procedimiento técnico com
 ### Documentación Técnica
 
 Descripción
-# Manual de Mantenimiento	Guía detallada con la metodología paso a paso aplicada al equipo.
-# Trifoliar Informativo	Material técnico resumido para consulta rápida de usuario.
-# Video Demostrativo	Registro visual de las fases de limpieza y diagnóstico.|
+ Manual de Mantenimiento	Guía detallada con la metodología paso a paso aplicada al equipo.
+ Trifoliar Informativo	Material técnico resumido para consulta rápida de usuario.
+ Video Demostrativo	Registro visual de las fases de limpieza y diagnóstico.|
 
 ---
 
