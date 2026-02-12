@@ -68,5 +68,3 @@ El propósito fundamental fue la implementación de técnicas correctivas y prev
 **Licencia:** Proyecto con fines exclusivamente académicos para el curso de Prácticas Iniciales "F-" 1S2026.
 
 ---
-
-¿Te gustaría que redacte también una estructura de carpetas sugerida para que el repositorio se vea aún más organizado?
